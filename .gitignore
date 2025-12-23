@@ -1,0 +1,16 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Mobile/Editor Temp Files
+.trebedit/
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Local env files (if you add them later)
+.env
+.env.local
