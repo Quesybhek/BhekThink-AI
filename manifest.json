@@ -1,0 +1,16 @@
+{
+  "name": "BhekThink Infinity OS",
+  "short_name": "BhekThink",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#030303",
+  "theme_color": "#00f2ff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
